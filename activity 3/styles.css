@@ -1,0 +1,13 @@
+* {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span.clickme{
+     background-color: black;
+     color: white;
+     font-weight: bold;
+}
+span.no{
+     background-color: yellow;
+     color: black;
+     
+}

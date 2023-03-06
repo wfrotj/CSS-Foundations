@@ -1,0 +1,18 @@
+* {
+     font-family: Arial, Helvetica, sans-serif;
+}
+.number1,.number5 {
+     background-color: #FFC0CB;
+     font-size: 12px ;
+}
+#number2{
+     color: #0000FF;
+     font-size: 20px;
+}
+.number3 {
+     background-color: #FFC0CB;
+     font-size: 16px;
+}
+#number4 {
+     background-color:#7FFFD4 ;
+     font-weight: bold;

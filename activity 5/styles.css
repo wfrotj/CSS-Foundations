@@ -1,0 +1,10 @@
+.parents {
+     text-align: center;
+     background-color: yellow;
+     color: red;
+     font-size: 20px;
+}
+p.child1 {
+     color: black;
+     background-color: none;
+}
